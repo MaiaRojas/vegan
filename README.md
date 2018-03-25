@@ -15,7 +15,7 @@ El objetivo principal de este proyecto fue comprender los hábitos de alimentac
   
 ## Plan de trabajo
 
-Al comenzar lo primero fue estructurar el proyecto, definir la metodología a utilizar y organizar las tareas en un período de 2 semanas de trabajo.
+Al comenzar lo primero fue <span><a href= "https://drive.google.com/open?id=1w-5UQ91TVhSwRlAEN3x7OhaBCdOJcA3OZpN43d8roKA">estructurar el proyecto</a></span>, definir la metodología a utilizar y organizar las tareas en un período de 2 semanas de trabajo.
  
  <p align="center"> 
 <img src="https://image.ibb.co/cNKKLS/Captura_de_pantalla_2018_03_25_a_la_s_12_08_54_a_m.png">
