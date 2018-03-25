@@ -47,6 +47,10 @@ Constanza al llevar tiempo siendo vegana ya tiene sus marcas favoritas y hay pro
 </p>
 
 ### Entrevistas
- 
+
+Para comenzar se realizó una guía de entrevista, la cual se estructuró en 3 partes:
+- Perfil personal 
+- Perfil digital, con el fin de conocer su nivel de inmersión en la tecnología, uso de dispositivos, internet y redes sociales, para determinar si la solución se acercaba más a dispositivos móviles o web. 
+- Sección de preguntas abiertas, para poder entender sus motivaciones, comportamientos, frustraciones, etc. frente al veganismo. 
 
  
