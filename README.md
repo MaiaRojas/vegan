@@ -21,6 +21,8 @@ Al comenzar lo primero fue <span><a href="https://drive.google.com/open?id=1w-5U
 <img src="https://image.ibb.co/cNKKLS/Captura_de_pantalla_2018_03_25_a_la_s_12_08_54_a_m.png">
 </p>
 
+
+
 ## Empatizar
 
 Lo más importante fue asumir la falta de conocimiento y dominio personal frente al veganismo, esto significaba que necesitaba comprender desde cerca sus motivaciones, frustraciones y miedos, todo esto para poder entender sus emociones y así poder dar una solución centrada 100% en ellos.
@@ -61,7 +63,17 @@ Las entrevistas fueron realizadas remotamente, guardando el  <span><a href="http
 Se realizó un <span><a href="https://drive.google.com/open?id=1UuBIIv7rs3YSyBa4GVBwWrlTNnUSObUpS9Ce3A5b0lY">estudio de mercado</a></span>, de distintas páginas, aplicaciones y entidades que informan a las personas sobre que es vegano o no. 
 Luego de este estudio se pudo concluir que la mayoría de las páginas y aplicaciones no cuentan con informacion actualizada, por lo que gran parte de las personas recurre a grupos o páginas en redes sociales (facebook, instagram y youtube), para informarse sobre productos veganos, restaurantes, recetas y tips.
 
+
+
 ## Definir
 
 ### Mapa de empatía
+
+Ya recopilada toda la informacion de los usuarios quedan en evidencia diferentes puntos de vista, motivaciones, frustraciones, miedos  y acciones de los usuarios. 
+A partir de esto se crea un mapa de empatía general para organizar la informacion recopilada anteriormente. 
+A partir del mapa de empatía y la interpretación de la informacion obtenida en las entrevistas se pudieron identificar nuevas necesidades 
+
+ <p align="center"> 
+<img src= "https://image.ibb.co/bT7dVS/Mapa_de_empatia.jpg">
+</p>
 
