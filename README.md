@@ -129,7 +129,7 @@ Manejar información en cuanto a los alimentos que debe comer diariamente, porqu
 Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo podríamos? (HMW), estas preguntas sirvieron de canal entre los problemas y las posibles ideas (What if?), que se convertirán en oportunidades de diseño.
 
 <p align="center"> 
-<img src= "hhttps://image.ibb.co/k0fFAS/Captura_de_pantalla_2018_03_25_a_la_s_1_24_52_a_m.png">
+<img src= "https://image.ibb.co/k0fFAS/Captura_de_pantalla_2018_03_25_a_la_s_1_24_52_a_m.png">
 </p>
 
 
@@ -144,4 +144,28 @@ Ya con las posibles soluciones definidas se creó la propuesta de valor:
 * Identifica qué producto es vegano en solo segundos
 
 
+Se tomó la decisión de realizar una aplicación móvil, según el perfil digital obtenido en las entrevistas, que acompañe a los usuarios en su viaje por el supermercado, ayudándolos a determinar rápidamente qué alimentos son veganos, proporcionándoles información adicional sobre los ingredientes y teniendo la posibilidad de revisar en el mismo lugar una lista de ingredientes y aditivos categorizados por veganos, no veganos o dudosos.  
+A la vez el usuario tiene la posibilidad de contribuir con el catálogo de alimentos veganos, agregando productos que él haya encontrado o reportando productos que no sean realmente veganos. 
 
+### Arquitectura de la información
+
+Se realizó un [inventario de contenido](https://drive.google.com/open?id=1TakWgafUjD921K5Uc4sNbkJhD6PyYHixglBTNEoIeUI), con los contenidos que se consideran básicos, para luego validarlos, a través de un card sorting abierto,  pidiéndoles a los usuarios que los agruparán  según su criterio.  
+Como conclusión del Card Sorting se puede rescatar que los usuarios están acostumbrados a agrupar contenido de productos alimenticios como en e-commerce de supermercados, por lo que se pudo validar que es necesario mantener ese orden y así respetar la lógica de los elementos cercanos para ellos.
+Luego de tener los contenidos validados por los usuarios y agrupados se armó el [mapa del sitio](https://drive.google.com/open?id=16MZGoyu9aLYAeQCf_Vl9wbldH-t6R9o2), que ayudó a ir estructurando más la aplicación. 
+
+### User Flow
+
+El user flow ayudó a entender cómo sería el viaje una vez que el usuario ingresara a la aplicación  y  a poder detallar su flujo de comportamiento. 
+
+<p align="center"> 
+<img src= "https://image.ibb.co/iMEmH7/User_Flow.jpg">
+</p>
+
+### Wireflow
+
+Luego del User Flow, fue mucho más sencillo desarrollar los primeros sketch y así obtener el wireflow, dándole más forma a la aplicación. 
+Los primeros acercamientos se hicieron priorizando el dibujo a mano, para poder testear e iterar más rápidamente. 
+
+<p align="center"> 
+<img src= "https://image.ibb.co/f1XHPn/Wireflow.jpg">
+</p>
