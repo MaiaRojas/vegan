@@ -112,6 +112,16 @@ Esta herramienta ayudó a detectar puntos de conflicto, definir las distintas ac
 <img src= "https://image.ibb.co/mcWVAS/Customer_Journey_Map.jpg">
 </p>
 
+### Point of view
 
+A partir del Customer Journey Map se definieron 4 puntos que el usuario necesita y el porqué. 
+Reducir el tiempo que pasa en el supermercado identificando si un producto es vegano, porque demora mucho tiempo cada vez que debe ir al supermercado.
+Tener claridad de todos los ingredientes que se encuentran en la tabla nutricional, porque necesita saber de dónde procede lo que está comiendo.
+Tener claridad de los ingredientes que tiene un producto cada vez que lo compra, porque las empresas constantemente van cambiando sus ingredientes.
+Manejar información en cuanto a los alimentos que debe comer diariamente, porque necesita saber qué nutrientes necesita para consumirlos o suplementar.
+
+<p align="center"> 
+<img src= "https://image.ibb.co/bGQJx7/Point_of_view.jpg">
+</p>
 
 
