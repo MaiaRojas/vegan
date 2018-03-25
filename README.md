@@ -169,3 +169,21 @@ Los primeros acercamientos se hicieron priorizando el dibujo a mano, para poder 
 <p align="center"> 
 <img src= "https://image.ibb.co/f1XHPn/Wireflow.jpg">
 </p>
+
+
+
+## Prototipo y Testeo
+
+Una vez que ya se definió el flujo de la aplicación y la arquitectura de la información, se [testean](https://drive.google.com/open?id=1q6ewMaWpyNfsDbeVgc9LAB5Dl8Q_qe_F) los wireframes en dibujos, para determinar posibles problemas de usabilidad y comprensión . 
+Una vez definido e iterado esto último se comienza con el [prototipo en Axure RP 8](https://drive.google.com/open?id=184PK4IKQ0Qvsq4YJzWaLzQagTI2ThJh9).
+
+<p align="center"> 
+<img src= "https://image.ibb.co/cDzsqS/4.png">
+</p>
+
+Luego de testear el primer prototipo el usuario da a conocer informacion que le aportaría valor a la hora de revisar un producto:
+* Cuando fue actualizada la informacion, ya que las empresas cambian constantemente sus ingredientes.
+* En que lugar puedo conseguir el producto.
+* Y si contiene o no trazas o ha sido elaborado en líneas que procesan leche o huevo. 
+* Con esta informacion se itera llegando a la segunda versión del prototipo
+
