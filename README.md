@@ -15,7 +15,7 @@ El objetivo principal de este proyecto fue comprender los hábitos de alimentac
   
 ## Plan de trabajo
 
-Al comenzar lo primero fue <span><a href= "https://drive.google.com/open?id=1w-5UQ91TVhSwRlAEN3x7OhaBCdOJcA3OZpN43d8roKA">estructurar el proyecto</a></span>, definir la metodología a utilizar y organizar las tareas en un período de 2 semanas de trabajo.
+Al comenzar lo primero fue <span><a href="https://drive.google.com/open?id=1w-5UQ91TVhSwRlAEN3x7OhaBCdOJcA3OZpN43d8roKAL">estructurar el proyecto</a></span>, definir la metodología a utilizar y organizar las tareas en un período de 2 semanas de trabajo.
  
  <p align="center"> 
 <img src="https://image.ibb.co/cNKKLS/Captura_de_pantalla_2018_03_25_a_la_s_12_08_54_a_m.png">
@@ -35,4 +35,6 @@ Como segunda parte del ejercicio decidí ir a un supermercado, ponerme en su lu
 
 Como parte del estudio etnográfico acompañé a Constanza, joven de 24 años, vegana hace casi 2 años, a realizar sus compras al supermercado Jumbo ubicado en Ñuñoa, donde ella acostumbra a comprar.
 En un principio observé su comportamiento, tratando de interrumpir lo menos posible, luego le pedí que me comentará en qué se fijaba ella a la hora de elegir un producto y cuáles eran los principales problemas al momento de realizar esta actividad. <span><a href="https://drive.google.com/drive/folders/1OxlZYbSm-7RBYi32LkAmI60biO1XwpbL">Ver registro</a></span>
+ 
+
  
