@@ -97,11 +97,7 @@ Después de analizar la información contenida en estos grupos, se llegó a la c
 ### Storyboard
 
 Se realizó un guión gráfico para plasmar lo vivido durante la etnografía, y así conocer y comprender de mejor manera las tareas realizadas, reacciones, frustraciones  y emociones. 
-Esta secuencia de ilustraciones sobre la acción de compra en un supermercado ayudó a identificar posibles puntos de intervención en la experiencia del usuario.
-
-<p align="center"> 
-<img src= "https://image.ibb.co/cEtSqS/3.png">
-</p>
+Esta secuencia de ilustraciones sobre la acción de compra en un supermercado ayudó a identificar posibles puntos de intervención en la experiencia del usuario. [Ver registro](https://drive.google.com/open?id=1sib7mQWOjy7oAVFFGzAKXIP2jetwa6EH)
 
 ### Customer Journey Map
 
