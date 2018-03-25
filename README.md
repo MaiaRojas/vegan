@@ -53,4 +53,5 @@ Para comenzar se realizó una <span><a href="https://drive.google.com/open?id=1a
 * Perfil digital, con el fin de conocer su nivel de inmersión en la tecnología, uso de dispositivos, internet y redes sociales, para determinar si la solución se acercaba más a dispositivos móviles o web. 
 * Sección de preguntas abiertas, para poder entender sus motivaciones, comportamientos, frustraciones, etc. frente al veganismo. 
 
- 
+Esta guía fue <span><a href="https://drive.google.com/open?id=1xTEjnbKKyTOTDtS6jWZtHrTFNRdOF6UpCvusjRC4efQ">testeada</a></span> para conocer la duración real de ésta, verificar si las preguntas ayudaban a obtener la información esperada, si eran bien recibidas por el usuario y si el orden era coherente. 
+Las entrevistas fueron realizadas remotamente, guardando el  <span><a href="https://drive.google.com/open?id=1zvWOtmhfyl9cYjVxaXK6jZqN8fwHSPjg">registro de audio</a></span>. Las personas entrevistadas fueron principalmente veganas, pero también se consideraron personas vegetarianas en proceso de ser veganas, de distintas edades, profesiones e intereses. 
