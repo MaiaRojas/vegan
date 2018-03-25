@@ -82,7 +82,7 @@ A partir del mapa de empatía y la interpretación de la informacion obtenida en
 Para apoyar el desarrollo de una solución final,  y a partir de la información obtenida anteriormente, se desarrollaron 5 arquetipos. 1 persona principal (primary persona) y 4 personas secundarias, que se verán beneficiadas de igual manera con la futura solución.
 Para cada persona se definió su edad, gustos, necesidades, metas y problemas. Esto con el fin de identificar  posibles ideas y soluciones futuras.
  <p align="center"> 
-<img src= "https://image.ibb.co/hyJDx7/Primary_persona.jpg" style="width: 200px;">
+<img src= "https://image.ibb.co/hyJDx7/Primary_persona.jpg" style="width: 50px;">
 </p>
 
 A partir de esto se concluyó que los usuarios a pesar de tener distintas edades, ocupaciones, motivaciones e intereses, comparten problemas a la hora de comprar y determinar si un producto es vegano. 
