@@ -6,3 +6,5 @@ Actualmente gran parte de los productos que podemos encontrar en un supermercado
 Para las personas que no consumen estos alimentos, por decisión o salud, es un gran trabajo analizar cada uno de sus ingredientes para determinar si es apto para ellos o no.
 
 ![alt text](<center>https://preview.ibb.co/bGkLS7/1.png</center>)
+
+
