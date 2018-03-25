@@ -43,7 +43,7 @@ Constanza al llevar tiempo siendo vegana ya tiene sus marcas favoritas y hay pro
  Me comenta que debe optimizar lo mayor posible su tiempo a la hora de comprar, ya que no puede comprar todos los productos que necesita en un solo lugar, por temas de disponibilidad o de precios, generalmente debe dividir su tiempo entre pasar al supermercado, tostaduría, ferias libres y emporios más específicos, donde consigue suplementos y alimentos fortificados.
 
  <p align="center"> 
-<img src="https://preview.ibb.co/dJng0S/2.png">
+<img src= "https://image.ibb.co/gFFqun/2.png">
 </p>
 
 ### Entrevistas
