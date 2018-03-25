@@ -81,13 +81,15 @@ A partir del mapa de empatía y la interpretación de la informacion obtenida en
 
 Para apoyar el desarrollo de una solución final,  y a partir de la información obtenida anteriormente, se desarrollaron 5 arquetipos. 1 persona principal (primary persona) y 4 personas secundarias, que se verán beneficiadas de igual manera con la futura solución.
 Para cada persona se definió su edad, gustos, necesidades, metas y problemas. Esto con el fin de identificar  posibles ideas y soluciones futuras.
- <p align="center"> 
-<img src= "https://image.ibb.co/hyJDx7/Primary_persona.jpg" style="width: 50px;">
-</p>
-
 A partir de esto se concluyó que los usuarios a pesar de tener distintas edades, ocupaciones, motivaciones e intereses, comparten problemas a la hora de comprar y determinar si un producto es vegano. 
 la mayoría invierte mucho tiempo en ir de compras, leen las etiquetas, revisan los ingredientes y las líneas en las que fue elaborado. 
-Son personas que se encuentran muy informadas sobre su estilo de vida y alimentación. Manejan un gran número de nombres de aditivos y componentes que se encuentran actualmente en el mercado, ya saben de dónde provienen los principales, cuáles pueden consumir y dónde encontrar más información sobre eso.
+Son personas que se encuentran muy informadas sobre su estilo de vida y alimentación. Manejan un gran número de nombres de aditivos y componentes que se encuentran actualmente en el mercado, ya saben de dónde provienen los principales, cuáles pueden consumir y dónde encontrar más información sobre eso. <span><a href="https://drive.google.com/open?id=1TVu-3G_aovwbv2SEm8Y3myz-kuTTvJKq"> Ver personas</a></span>
+
+### Affinity Map
+
+Luego de realizar la investigación, poder entender al usuario de mejor manera y ponerme en su lugar se realizó un [brainstorming](https://drive.google.com/open?id=1SOfMTjPG4M9Sr_likcz86bizwDv3m4eiNE6h-VVkpt8) con el objetivo de bajar los conceptos, problemas e ideas claves de los usuarios obtenidas durante la investigación. Luego estos conceptos fueron agrupados en 8 grupos: salud, nutrición y suplementos, información, compra, social, ingredientes, etiqueta y mis inicios. 
+Después de analizar la información contenida en estos grupos, se llegó a la conclusión que los problemas presentes en las categorías información, etiqueta e ingredientes tienen más coincidencia entre los usuarios, por lo que se tomó la decisión de abordar esta área. 
+
 
 
 
