@@ -36,5 +36,5 @@ Como segunda parte del ejercicio decidí ir a un supermercado, ponerme en su lu
 Como parte del estudio etnográfico acompañé a Constanza, joven de 24 años, vegana hace casi 2 años, a realizar sus compras al supermercado Jumbo ubicado en Ñuñoa, donde ella acostumbra a comprar.
 En un principio observé su comportamiento, tratando de interrumpir lo menos posible, luego le pedí que me comentará en qué se fijaba ella a la hora de elegir un producto y cuáles eran los principales problemas al momento de realizar esta actividad.
 
-<p align=left><a href= "https://drive.google.com/drive/folders/1OxlZYbSm-7RBYi32LkAmI60biO1XwpbL" target="_blank">Ver registro</a>
+<p align=center><a href="https://drive.google.com/drive/folders/1OxlZYbSm-7RBYi32LkAmI60biO1XwpbL">Ver registro</a>
  
