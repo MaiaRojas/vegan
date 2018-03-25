@@ -184,6 +184,32 @@ Una vez definido e iterado esto último se comienza con el [prototipo en Axure R
 Luego de testear el primer prototipo el usuario da a conocer informacion que le aportaría valor a la hora de revisar un producto:
 * Cuando fue actualizada la informacion, ya que las empresas cambian constantemente sus ingredientes.
 * En que lugar puedo conseguir el producto.
-* Y si contiene o no trazas o ha sido elaborado en líneas que procesan leche o huevo. 
-* Con esta informacion se itera llegando a la segunda versión del prototipo
+* Y si contiene o no trazas o ha sido elaborado en líneas que procesan leche o huevo.
+
+Con esta informacion se itera llegando a la segunda versión del prototipo
+
+<p align="center"> 
+<img src= "https://image.ibb.co/b8nLAS/5.png">
+</p>
+
+En la segunda versión del prototipo se agrega el contenido propuesto por el usuario. También se agrega una vista splash y una pantalla de bienvenida con explicación sobre para qué sirve Vegan, y la opción de registro e inicio de sesión. 
+Luego de testear el segundo prototipo se identificó que  el botón para pasar la explicación (3 pantallas) es muy pequeño y el usuario no puede interactuar con el. 
+También el botón para reportar si un producto no es vegano, “Este producto no es vegano”, ubicado en la vista del producto, causa confusión al usuario, quien transmite que pensó que resaltaba que el producto no era vegano. [Ver video](https://drive.google.com/open?id=1WAAxxEPoE6amysQJeiNuD4tSz9DRTcku)
+Con la información proporcionada se itera por tercera vez, y se agrega el botón actualizar información.
+
+<p align="center"> 
+<img src= "https://image.ibb.co/kDBxqS/6.png">
+</p>
+
+Luego de generar las últimas iteraciones sobre el prototipo, se realiza un ejercicio de testing en terreno, en donde se le pide a un usuario que utilice la aplicación en el supermercado que no sea al que habitualmente va, en este caso la actividad de realizó en el supermercado Santa Isabel en Ñuñoa, dándole la tarea específica de buscar galletas que sean veganas y pidiéndole que pensara en voz alta para entender su comportamiento y percepción
+Finalmente se realizó una conversación abierta para comprender si la aplicación le agrega valor a su experiencia de compra.
+El usuario nos comenta que si le ayuda a reducir el tiempo de compra y que además disfruto mucho realizando “nuevos descubrimientos” de productos veganos que no sabía que lo eran. [Ver video de uso](https://drive.google.com/open?id=1Ni4-m874-k5vEPmLkB19vTGBnR1rAr75)
+
+<p align="center"> 
+<img src= "https://image.ibb.co/hcqOVS/IMG_20180315_WA0017.jpg">
+</p>
+
+[Ver Prototipo final](https://y60lr0.axshare.com/#c=2)
+
+
 
