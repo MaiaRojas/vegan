@@ -124,4 +124,13 @@ Manejar información en cuanto a los alimentos que debe comer diariamente, porqu
 <img src= "https://image.ibb.co/bGQJx7/Point_of_view.jpg">
 </p>
 
+### HMW / What if?
+
+Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo podríamos? (HMW), estas preguntas sirvieron de canal entre los problemas y las posibles ideas (What if?), que se convertirán en oportunidades de diseño.
+
+| Problem Statement | HMW | What if? |
+| :------- | :------: | -----: |
+| Reducir el tiempo que pasa en el supermercado identificando si un producto es vegano,
+ porque demora mucho tiempo cada vez que debe ir al supermercado   | 15       | 150€   |
+| Item 2   | 3250     | 23,65€ |
 
