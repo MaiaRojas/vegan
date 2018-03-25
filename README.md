@@ -90,6 +90,10 @@ Son personas que se encuentran muy informadas sobre su estilo de vida y alimenta
 Luego de realizar la investigación, poder entender al usuario de mejor manera y ponerme en su lugar se realizó un [brainstorming](https://drive.google.com/open?id=1SOfMTjPG4M9Sr_likcz86bizwDv3m4eiNE6h-VVkpt8) con el objetivo de bajar los conceptos, problemas e ideas claves de los usuarios obtenidas durante la investigación. Luego estos conceptos fueron agrupados en 8 grupos: salud, nutrición y suplementos, información, compra, social, ingredientes, etiqueta y mis inicios. 
 Después de analizar la información contenida en estos grupos, se llegó a la conclusión que los problemas presentes en las categorías información, etiqueta e ingredientes tienen más coincidencia entre los usuarios, por lo que se tomó la decisión de abordar esta área. 
 
+<p align="center"> 
+<img src= "https://image.ibb.co/ngN3VS/Affinity_Map.jpg">
+</p>
+
 
 
 
