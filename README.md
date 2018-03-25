@@ -128,9 +128,20 @@ Manejar información en cuanto a los alimentos que debe comer diariamente, porqu
 
 Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo podríamos? (HMW), estas preguntas sirvieron de canal entre los problemas y las posibles ideas (What if?), que se convertirán en oportunidades de diseño.
 
-| Problem Statement | HMW | What if? |
-| :------- | :------: | -----: |
-| Reducir el tiempo que pasa en el supermercado identificando si un producto es vegano,
- porque demora mucho tiempo cada vez que debe ir al supermercado   | 15       | 150€   |
-| Item 2   | 3250     | 23,65€ |
+<p align="center"> 
+<img src= "hhttps://image.ibb.co/k0fFAS/Captura_de_pantalla_2018_03_25_a_la_s_1_24_52_a_m.png">
+</p>
+
+
+
+## Idear
+
+### Propuesta de valor
+
+Ya con las posibles soluciones definidas se creó la propuesta de valor:
+* Ahorra tiempo en tus visitas al supermercado
+* Revisa ingredientes y aditivos en el mismo lugar
+* Identifica qué producto es vegano en solo segundos
+
+
 
