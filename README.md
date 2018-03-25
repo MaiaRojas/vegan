@@ -210,6 +210,6 @@ El usuario nos comenta que si le ayuda a reducir el tiempo de compra y que adem√
 
 
 
-
+---
 ###### *Proyecto desarrollado para Laboratoria*
 
