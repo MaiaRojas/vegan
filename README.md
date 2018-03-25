@@ -94,6 +94,23 @@ Después de analizar la información contenida en estos grupos, se llegó a la c
 <img src= "https://image.ibb.co/ngN3VS/Affinity_Map.jpg">
 </p>
 
+### Storyboard
+
+Se realizó un guión gráfico para plasmar lo vivido durante la etnografía, y así conocer y comprender de mejor manera las tareas realizadas, reacciones, frustraciones  y emociones. 
+Esta secuencia de ilustraciones sobre la acción de compra en un supermercado ayudó a identificar posibles puntos de intervención en la experiencia del usuario.
+
+<p align="center"> 
+<img src= "https://image.ibb.co/cEtSqS/3.png">
+</p>
+
+### Customer Journey Map
+
+Ya definida un área específica dentro del proceso de compra se definió la experiencia del usuario en un supermercado. 
+Esta herramienta ayudó a detectar puntos de conflicto, definir las distintas actividades que realizan en esos momentos y a su vez sus pensamientos, emociones relacionadas según el grado de satisfacción en cada etapa,  puntos de contacto entre él y otros elementos en determinados momentos, necesidades y  posibles oportunidades. 
+
+<p align="center"> 
+<img src= "https://image.ibb.co/mcWVAS/Customer_Journey_Map.jpg">
+</p>
 
 
 
