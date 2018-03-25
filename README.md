@@ -77,3 +77,18 @@ A partir del mapa de empatía y la interpretación de la informacion obtenida en
 <img src= "https://image.ibb.co/bT7dVS/Mapa_de_empatia.jpg">
 </p>
 
+### Arquetipos
+
+Para apoyar el desarrollo de una solución final,  y a partir de la información obtenida anteriormente, se desarrollaron 5 arquetipos. 1 persona principal (primary persona) y 4 personas secundarias, que se verán beneficiadas de igual manera con la futura solución.
+Para cada persona se definió su edad, gustos, necesidades, metas y problemas. Esto con el fin de identificar  posibles ideas y soluciones futuras.
+ <p align="center"> 
+<img src= "https://image.ibb.co/hyJDx7/Primary_persona.jpg" style="width: 200px;">
+</p>
+
+A partir de esto se concluyó que los usuarios a pesar de tener distintas edades, ocupaciones, motivaciones e intereses, comparten problemas a la hora de comprar y determinar si un producto es vegano. 
+la mayoría invierte mucho tiempo en ir de compras, leen las etiquetas, revisan los ingredientes y las líneas en las que fue elaborado. 
+Son personas que se encuentran muy informadas sobre su estilo de vida y alimentación. Manejan un gran número de nombres de aditivos y componentes que se encuentran actualmente en el mercado, ya saben de dónde provienen los principales, cuáles pueden consumir y dónde encontrar más información sobre eso.
+
+
+
+
