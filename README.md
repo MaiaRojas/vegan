@@ -55,3 +55,13 @@ Para comenzar se realizó una <span><a href="https://drive.google.com/open?id=1a
 
 Esta guía fue <span><a href="https://drive.google.com/open?id=1xTEjnbKKyTOTDtS6jWZtHrTFNRdOF6UpCvusjRC4efQ">testeada</a></span> para conocer la duración real de ésta, verificar si las preguntas ayudaban a obtener la información esperada, si eran bien recibidas por el usuario y si el orden era coherente. 
 Las entrevistas fueron realizadas remotamente, guardando el  <span><a href="https://drive.google.com/open?id=1zvWOtmhfyl9cYjVxaXK6jZqN8fwHSPjg">registro de audio</a></span>. Las personas entrevistadas fueron principalmente veganas, pero también se consideraron personas vegetarianas en proceso de ser veganas, de distintas edades, profesiones e intereses. 
+
+### Benchmark
+
+Se realizó un <span><a href="https://drive.google.com/open?id=1UuBIIv7rs3YSyBa4GVBwWrlTNnUSObUpS9Ce3A5b0lY">estudio de mercado</a></span>, de distintas páginas, aplicaciones y entidades que informan a las personas sobre que es vegano o no. 
+Luego de este estudio se pudo concluir que la mayoría de las páginas y aplicaciones no cuentan con informacion actualizada, por lo que gran parte de las personas recurre a grupos o páginas en redes sociales (facebook, instagram y youtube), para informarse sobre productos veganos, restaurantes, recetas y tips.
+
+## Definir
+
+### Mapa de empatía
+
