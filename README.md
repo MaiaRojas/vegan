@@ -35,6 +35,18 @@ Como segunda parte del ejercicio decidí ir a un supermercado, ponerme en su lu
 
 Como parte del estudio etnográfico acompañé a Constanza, joven de 24 años, vegana hace casi 2 años, a realizar sus compras al supermercado Jumbo ubicado en Ñuñoa, donde ella acostumbra a comprar.
 En un principio observé su comportamiento, tratando de interrumpir lo menos posible, luego le pedí que me comentará en qué se fijaba ella a la hora de elegir un producto y cuáles eran los principales problemas al momento de realizar esta actividad. <span><a href="https://drive.google.com/drive/folders/1OxlZYbSm-7RBYi32LkAmI60biO1XwpbL">Ver registro</a></span>
+
+Al finalizar esta visita noté que nos demoramos bastante en comprar solo un par de cosas. Constanza antes de comprar cualquier producto revisa minuciosamente la etiqueta, escaneando ingrediente por ingrediente, hay muchos ingredientes y aditivos que van cambiando su nombre en distintos productos o que a veces solo están identificados con su código, lo que hace más compleja su identificación.
+Me comenta que esa información fue algo que fue adquiriendo con el tiempo, y que en un principio fue muy difícil identificar qué podía comer,  ya que comenzó a notar que todo tenía leche o huevo, desde el pan,  las pastas hasta una salsa de tomate, que en teoría no debería contener estos ingredientes.
+
+Constanza al llevar tiempo siendo vegana ya tiene sus marcas favoritas y hay productos que logra adivinar a simple vista si son o no veganos sólo con identificar algunos  detalles en su envase.
+ Me comenta que debe optimizar lo mayor posible su tiempo a la hora de comprar, ya que no puede comprar todos los productos que necesita en un solo lugar, por temas de disponibilidad o de precios, generalmente debe dividir su tiempo entre pasar al supermercado, tostaduría, ferias libres y emporios más específicos, donde consigue suplementos y alimentos fortificados.
+
+ <p align="center"> 
+<img src="https://preview.ibb.co/dJng0S/2.png">
+</p>
+
+### Entrevistas
  
 
  
