@@ -4,7 +4,6 @@
 
 Proyecto realizado por [Macarena Marambio](https://macamarambio.github.io/)
 
-
 ![alt text](https://image.ibb.co/bDUB0S/Captura_de_pantalla_2018_03_24_a_la_s_11_27_02_p_m.png)
 
 ---
@@ -213,7 +212,7 @@ El usuario nos comenta que si le ayuda a reducir el tiempo de compra y que adem√
 <img src= "https://image.ibb.co/hcqOVS/IMG_20180315_WA0017.jpg">
 </p>
 
-<a align="center" href="https://y60lr0.axshare.com/#c=2">Ver Prototipo final</a> 
+[Ver Prototipo final](https://y60lr0.axshare.com/#c=2)
 
 
 
