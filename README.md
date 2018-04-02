@@ -1,5 +1,4 @@
 # Vegan
-
 ¿Cómo saber cuándo un producto es realmente vegano? 
 
 Proyecto realizado por [Macarena Marambio](https://macamarambio.github.io/)
